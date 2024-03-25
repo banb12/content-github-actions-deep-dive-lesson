@@ -1,4 +1,4 @@
-name: Deploy Lambda Function update
+name: Deploy Lambda Function Publish
 on: [push]
 
 jobs:
